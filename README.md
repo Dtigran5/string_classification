@@ -1,1 +1,1 @@
-# string_classification
+This repository contains a machine learning model for string classification. The model is designed to categorize text strings into predefined classes based on their content. The project demonstrates the use of various classification algorithms such as  feature extraction techniques like TF-IDF.
